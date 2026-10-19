@@ -1,0 +1,17 @@
+cff-version: 1.1.0
+message: "If you use this specification, please cite it as below."
+title: "Agent Batch Approval Protocol (Plan-Preview-Commit)"
+version: 0.1.0
+date-released: 2026-10-19
+authors:
+  - family-names: Gallego
+    given-names: Angel
+    orcid: https://orcid.org/0009-0002-9459-4374
+repository-code: https://github.com/amgallego8/agent-batch-approval-protocol
+license: Apache-2.0
+keywords:
+  - AI agents
+  - human-in-the-loop
+  - batch approval
+  - plan-preview-commit
+  - agent governance
