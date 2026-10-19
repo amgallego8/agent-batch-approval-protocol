@@ -1,6 +1,6 @@
 # Agent Batch Approval Protocol (Plan-Preview-Commit)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23461767.svg)](https://doi.org/10.5281/zenodo.23461767)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23461766.svg)](https://doi.org/10.5281/zenodo.23461766)
 
 > **Status: draft v0.1.0.** Specification skeleton. This is an independent, self-published specification: it is **not an industry standard**, it has **not been peer reviewed**, and it contains **no published empirical validation** yet.
 
@@ -52,7 +52,7 @@ Prior art exists for each individual component (human approval in agent SDKs, re
 - Text and documentation: [CC BY 4.0](LICENSE-docs.md).
 
 ## How to cite
-See [CITATION.cff](CITATION.cff). Archived version v0.1.0: DOI [10.5281/zenodo.23461767](https://doi.org/10.5281/zenodo.23461767).
+See [CITATION.cff](CITATION.cff). To cite the project in general (always resolves to the latest version): DOI [10.5281/zenodo.23461766](https://doi.org/10.5281/zenodo.23461766). To cite this exact archived version (v0.1.0): DOI [10.5281/zenodo.23461767](https://doi.org/10.5281/zenodo.23461767).
 
 ## Author
 Angel Gallego — ORCID [0009-0002-9459-4374](https://orcid.org/0009-0002-9459-4374)
