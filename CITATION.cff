@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it as below. / Si usa esta especificación, cítela así."
+title: "Agent Batch Approval Protocol (Plan-Preview-Commit)"
+abstract: "Open, self-published draft specification for human approval of AI-agent action batches, with verifiable binding between preview and commit. Not an industry standard; not peer reviewed. / Borrador de especificación abierta y autopublicada para la aprobación humana de lotes de acciones de agentes de IA, con vínculo verificable entre vista previa y commit. No es un estándar; sin revisión por pares."
+version: 0.1.0
+# Update date-released on the day of the first release / Actualizar date-released el día del primer release
+date-released: "2026-10-18"
+authors:
+  - family-names: "Gallego"
+    given-names: "Angel"
+    orcid: "https://orcid.org/0009-0002-9459-4374"
+repository-code: "https://github.com/amgallego8/agent-batch-approval-protocol"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+keywords:
+  - AI agents
+  - human-in-the-loop
+  - batch approval
+  - plan-preview-commit
+  - agent governance
+  - decision ledger
+  - human oversight
