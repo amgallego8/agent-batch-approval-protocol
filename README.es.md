@@ -1,5 +1,7 @@
 # Protocolo de aprobación por lotes para agentes de IA (Plan-Preview-Commit)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23461767.svg)](https://doi.org/10.5281/zenodo.23461767)
+
 > **Estado: borrador v0.1.0.** Esqueleto de especificación. Es una especificación independiente y autopublicada: **no es un estándar de la industria**, **no ha sido revisada por pares** y **aún no incluye validación empírica publicada**.
 
 English: [README.md](README.md)
@@ -50,7 +52,7 @@ Existen antecedentes de cada componente por separado (aprobación humana en SDK 
 - Texto y documentación: [CC BY 4.0](LICENSE-docs.md).
 
 ## Cómo citar
-Ver [CITATION.cff](CITATION.cff). Se añadirá un DOI tras el primer release archivado.
+Ver [CITATION.cff](CITATION.cff). Versión archivada v0.1.0: DOI [10.5281/zenodo.23461767](https://doi.org/10.5281/zenodo.23461767).
 
 ## Autor
 Angel Gallego — ORCID [0009-0002-9459-4374](https://orcid.org/0009-0002-9459-4374)
